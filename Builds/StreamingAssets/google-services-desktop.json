@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "814649011110",
+    "firebase_url": "https://gameistic-simulator-default-rtdb.firebaseio.com",
+    "project_id": "gameistic-simulator",
+    "storage_bucket": "gameistic-simulator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814649011110:android:80b6a17515e740485efd67",
+        "android_client_info": {
+          "package_name": "com.gameistic.mega.ramp.car.stunts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814649011110-hph830h6hhi8d214nb9llps5sfufq770.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5pmVWJh_yGm6vRCenuqE-M7weMx7cPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814649011110-hph830h6hhi8d214nb9llps5sfufq770.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814649011110:android:17cee25ab122f0e55efd67",
+        "android_client_info": {
+          "package_name": "com.test.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814649011110-hph830h6hhi8d214nb9llps5sfufq770.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu5pmVWJh_yGm6vRCenuqE-M7weMx7cPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814649011110-hph830h6hhi8d214nb9llps5sfufq770.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
